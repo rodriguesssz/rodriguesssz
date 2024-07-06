@@ -16,6 +16,7 @@ Sou técnico em Desenvolvimento de Sistemasm e apaixonado por tecnologia, atualm
 - Assistir filmes
 - Ouvir músicas
 
+ 
 
 
 
