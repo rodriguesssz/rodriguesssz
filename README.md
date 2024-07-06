@@ -1,7 +1,7 @@
 # Gabriel Rodrigues
 Sou técnico em Desenvolvimento de Sistemasm e apaixonado por tecnologia, atualmente moro em Novo Hmaburgo, RS.
 
-![Minha foto]([https://commons.wikimedia.org/wiki/File:Sample_User_Icon.png](https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png))
+![Minha foto](https://commons.wikimedia.org/wiki/File:Sample_User_Icon.png](https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png)
 
 ## Educação
 - Cursando o ensino médio na Colégio Borges de Medeiro (2024)
