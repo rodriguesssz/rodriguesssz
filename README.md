@@ -1,6 +1,8 @@
 # Gabriel Rodrigues
 Sou técnico em Desenvolvimento de Sistemasm e apaixonado por tecnologia, atualmente moro em Novo Hmaburgo, RS.
 
+![Minha foto](aaaaaaaaaaaaaaaaaaaaa.svg)
+
 ## Educação
 - Cursando o ensino médio na Colégio Borges de Medeiro (2024)
 - Curso técnico de Desenvolvimento de Sistemas pelo SENAC (2024)
@@ -17,7 +19,8 @@ Sou técnico em Desenvolvimento de Sistemasm e apaixonado por tecnologia, atualm
 - Ouvir músicas
 
  ## Contate-me através
- Instagram: https://i
+ Instagram: https://instagram.com/rodrigues__051_
+ 
 
 
 
